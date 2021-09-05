@@ -21,6 +21,4 @@ yarn android
 </div>
 
 **Video**
-<video width="270" height="500" autoplay>
-  <source src="https://github.com/bhattaraijay05/react-native-food-app/blob/main/vdo/video.mp4" type="video/mp4">
-</video>
+https://github.com/bhattaraijay05/react-native-food-app/blob/main/vdo/video.mp4
